@@ -1,5 +1,5 @@
-# Pseudo-classes Lesson №10
-Homework for lesson:"CSS псевдоклассы. Псевдокласс HOVER и другие. Уроки HTML CSS JS. Урок №1"
+# Lesson №10
+Homework for lesson:"CSS псевдоклассы. Псевдокласс HOVER и другие. Уроки HTML CSS JS. Урок №10"
 </br>
 <a href="https://youtu.be/gM_9k1eWiXA">Lesson video</a>
 </br>
